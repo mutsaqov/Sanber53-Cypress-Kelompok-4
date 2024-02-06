@@ -1,0 +1,26 @@
+{
+    "validUser": {
+        "firstName": "Jacob",
+        "lastName": "Morningstar",
+        "email": "jacob@gmail.com",
+        "currentPassword": "Jacob123",
+        "password": "Jacob123",
+        "passwordConfirmation": "Jacob123"
+    },
+    "invalidUser1": {
+        "firstName": "Jacob",
+        "lastName": "Morningstar",
+        "email": "jacob@gmail.com",
+        "currentPassword": "Jacob221",
+        "password": "Jacob221",
+        "passwordConfirmation": "Jacob221"
+    },
+    "invalidUser2": {
+        "firstName": "Jacob",
+        "lastName": "Morningstar",
+        "email": "tes@gmail.com",
+        "currentPassword": "Jacob123",
+        "password": "Jacob123",
+        "passwordConfirmation": "Jacob123"
+    }
+}
