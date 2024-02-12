@@ -1,5 +1,21 @@
 {
     "validAddress": {
-        "company" : "Wagner Group"
+        "company" : "Wagner Group",
+        "telephone" : "00008123",
+        "street_1" : "Jl. MMA Khabib Nurmagomedov",
+        "city" : "Saint Petersburg",
+        "region" : "dagestan",
+        "zip" : "00012",
+        "country" : "Russia"
+    },
+
+    "invalidAddress": {
+        "company" : "",
+        "telephone" : "",
+        "street_1" : "",
+        "city" : "",
+        "region" : "",
+        "zip" : "",
+        "country" : "Russia"
     }
 }
